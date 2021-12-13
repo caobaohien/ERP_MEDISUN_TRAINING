@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:00:44:29 +0700] "GET /TrainingGESO/Donhanglistsvl?userId=100002 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:00:44:29 +0700] "GET /TrainingGESO/pages/Erp/donhanglist.jsp HTTP/1.1" 200 10361
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:00:44:29 +0700] "GET /TrainingGESO/pages/Erp/..scripts/jquery-1.js HTTP/1.1" 404 1087
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:00:44:29 +0700] "GET /TrainingGESO/pages/css/bkg.png HTTP/1.1" 404 1045
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:00:44:30 +0700] "POST /TrainingGESO/Donhanglistsvl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:00:44:30 +0700] "GET /TrainingGESO/pages/Erp/donhangnew.jsp HTTP/1.1" 200 51379
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:00:44:30 +0700] "GET /TrainingGESO/pages/scripts/ajax-dynamic-List.js HTTP/1.1" 404 1096
+0:0:0:0:0:0:0:1 - - [09/Sep/2021:00:44:33 +0700] "GET /TrainingGESO/pages/Erp/khachhanglistAjax.jsp?q=1&limit=150&timestamp=1631123073051 HTTP/1.1" 200 318

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+<fullyQualifiedTypeName name="geso.erp.beans.THONTINHOCSINH.imp.HocSinhList"/>
+<fullyQualifiedTypeName name="geso.training.bean.hocsinh.imp.HocSinh"/>
+<fullyQualifiedTypeName name="geso.training.bean.hocsinh.IHocSinh"/>
+<fullyQualifiedTypeName name="geso.training.bean.hocsinh.imp.HocSinhList"/>
+<fullyQualifiedTypeName name="geso.training.bean.hocsinh.IHocSinhList"/>
+<fullyQualifiedTypeName name="geso.dms.distributor.util.Utility"/>
+<fullyQualifiedTypeName name="geso.training.bean.donhang.IDonHangList"/>
+<fullyQualifiedTypeName name="java.sql.Array"/>
+<fullyQualifiedTypeName name="geso.dms.center.util.IPhan_Trang"/>
+<fullyQualifiedTypeName name="geso.dms.center.util.Phan_Trang"/>
+<fullyQualifiedTypeName name="geso.training.bean.donhang.IDonHang"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="geso.dms.center.util.Utility"/>
+<fullyQualifiedTypeName name="com.cete.dynamicpdf.Action"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="geso.training.bean.donhang.ISanPham"/>
+<fullyQualifiedTypeName name="java.io.DataOutputStream"/>
+<fullyQualifiedTypeName name="geso.training.bean.donhang.imp.DonHang"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="geso.erp.db.sql.dbutils"/>
+<fullyQualifiedTypeName name="geso.training.bean.donhang.imp.DonHangList"/>
+<fullyQualifiedTypeName name="geso.training.bean.donhang.imp.SanPham"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="geso.erp.beans.sanpham_kiet06.ISanPham"/>
+<fullyQualifiedTypeName name="geso.training.bean.sanpham.ISanPham"/>
+<fullyQualifiedTypeName name="geso.training.bean.sanpham.imp.SanPham"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>
